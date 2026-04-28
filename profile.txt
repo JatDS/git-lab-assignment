@@ -2,5 +2,5 @@ Izzat
 Name
 Matric Number
 Course
-Hobi: Bola
+Hobi: Bola, muaythai
 skill: excel
