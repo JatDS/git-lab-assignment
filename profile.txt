@@ -2,3 +2,4 @@ Izzat
 Name
 Matric Number
 Course
+Hobi: Bola
